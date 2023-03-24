@@ -16,6 +16,7 @@ class App extends React.Component {
       {
         name: 'Charlie',
         job: 'Janitor',
+        
       },
       {
         name: 'Mac',
